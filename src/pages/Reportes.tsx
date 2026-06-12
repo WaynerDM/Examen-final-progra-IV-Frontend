@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = "https://localhost:7098/api/fraud";
+const API_URL = "https://waynerexamenfinal.runasp.net/api/fraud";
 
 interface Fraud {
   id: number;
